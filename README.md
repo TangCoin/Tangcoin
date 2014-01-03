@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tangcoin [DOGE, Ð]
 http://tangcoin.com/
 
@@ -58,3 +59,10 @@ RPC 22555
 P2P 22556
 
 ![](http://tangsay.com/wow//////such/coin)
+=======
+Tangcoin
+========
+
+TangCoin
+fdsafdsa
+>>>>>>> 44f66a1c372845140bc9aa76a1bc1f6a09624e7d
